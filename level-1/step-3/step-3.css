@@ -6,12 +6,24 @@
 
 .content-mid-header {
   background: #444;
+  margin-top: 100px;
+  width: auto;
+  height: 100px;
+  margin-left: 75px;
+  margin-right: 75px;
 }
 
 .content-container {
-
+ 
 }
 
 .content {
   background: #D8D8D8;
+  width: auto;
+  height: 500px;
+  padding: 100px;
+  margin-top: 0px;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-bottom: 200px;
 }
